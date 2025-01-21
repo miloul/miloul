@@ -1,7 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=6CCBFF&height=300&section=header&text=Seungmin's%20Hub&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Seungmin's%20github&fontColor=000&fontSize=60&reversal=false&textBg=false)
 
 </div>
 
