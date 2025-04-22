@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Seungmin's%20github&fontColor=000&fontSize=60&reversal=false&textBg=false)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiloul%2Fhit-counter&count_bg=%2365B7FF&title_bg=%237F7F7F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
 ## 🤗 About Me 🤗
 
   
